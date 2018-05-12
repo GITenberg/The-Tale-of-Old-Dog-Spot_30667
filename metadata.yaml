@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1842
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Scott_Bailey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30667#The-Tale-of-Old-Dog-Spot
 gutenberg_bookshelf: Animals-Domestic
 gutenberg_issued: '2009-12-13'
 gutenberg_type: Text
